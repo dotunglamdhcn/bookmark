@@ -1,0 +1,51 @@
+tk2 server esstimate
+https://docs.google.com/spreadsheets/d/13hGejO5-2p8J8X93i2rELrTvvV1MxXcjASJxzs31FrI/edit?ts=5f17db5d#gid=0
+
+Infra hanoi password
+https://docs.google.com/spreadsheets/d/1Fq0xoI_9EyKod1acRFSrctyLQhvbflMcqssqCCTrp5c/edit#gid=1988392674
+
+https://punchvn.atlassian.net/wiki/spaces/PUNCH/pages/1627291684/TK2+Dev+etotama
+
+https://punchvn.atlassian.net/wiki/spaces/PUNCH/pages/1831567361/TK2+QA+etotama
+
+https://watfordcorp.com/account#/inwallet
+
+tai lieu analytic tung.vu
+https://docs.google.com/document/d/10IzYJaWVKFvDtg7ZMMJ-48MwuW1SvR0pOKkcaIjOrGk/edit#heading=h.ll69s9s0o4an
+
+nagios tkdev local 
+http://nagios.tk.dev.punch.vn/
+
+login tkdev local
+http://tk.dev.punch.vn/tk23/_login
+
+PA reviewluong 
+https://docs.google.com/document/d/1_Ty0XjJU4PXL2X3zgtGUadjDSpv4FcSHcVQasyN0FA0/edit
+
+BQ tk2 GGC
+https://console.cloud.google.com/bigquery?project=pvn-tk2-analysis&p=pvn-tk2-analysis&page=project
+
+http://jenkins.tk.dev.punch.vn/view/tk-status/job/tk_watch_replication/
+
+
+https://punchvn.atlassian.net/wiki/spaces/PUNCH/pages/1688666113/Dump+a+table+on+a+specific+date
+
+https://docs.google.com/spreadsheets/d/1pakgO_hJjQpeFvG0NnDhO85WzMABEMBLtOicWNDIb6U/edit#gid=0
+
+
+flash card english 
+https://quizlet.com/vn/555483942/chapter-about-feeling-and-emotion-flash-cards/
+
+hoc wordpress
+https://kt.city/lesson/bai-3-buoc-1-cai-dat-theme-flatsome-va-plugin-842
+
+source code ban hang bang wordpress 
+https://sonweb.net/chia-se-source-code-ban-hang-wordpress-mien-phi-full-data.html/
+
+
+TK2 combolog & snapshot design 
+https://docs.google.com/spreadsheets/d/1WQgTGwYKSA9HNkkiGiF35UTkVbYIkxH6Dm3z070ol_k/edit#gid=0
+
+
+Grant chart overall schedule TK2
+https://docs.google.com/spreadsheets/d/1Bj347l_rkZUDMUiGqtEKZChB_voJYHGzxgnpyFRRoto/edit#gid=1792279347
